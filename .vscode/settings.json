@@ -1,0 +1,6 @@
+{
+    "php-cs-fixer.executablePathWindows": "d:/appach/php/php-cs-fixer-v2.phar",
+    "php-cs-fixer.formatHtml": true,
+    "php.validate.executablePath": "‪d:/appach/php/php.exe",
+    "php.executablePath":"‪d:/appach/php/php.exe",
+}
